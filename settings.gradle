@@ -1,0 +1,2 @@
+rootProject.name='U5_T9'
+include ':app', 'Act_1', 'Act_2'
